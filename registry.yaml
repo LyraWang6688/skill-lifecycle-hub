@@ -1,0 +1,16 @@
+schema_version: 1
+
+repository:
+  name: skill-lifecycle-hub
+  owner: LyraWang6688
+
+projects: {}
+
+shared: {}
+
+allowed_statuses:
+  - draft
+  - testing
+  - active
+  - deprecated
+  - archived
